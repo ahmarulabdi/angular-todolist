@@ -7,12 +7,11 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   nama: string;
-
-  constructor(){
+  constructor() {
     this.setNama('abdi');
   }
 
-  setNama(nama){
+  setNama(nama: string) {
     this.nama = nama;
   }
 }
