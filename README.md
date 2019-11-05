@@ -1,4 +1,5 @@
 # AngularCrashTodolist
+Project TODO List Angular CLI using fake json api from https://jsonplaceholder.typicode.com/todos
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.14.
 
